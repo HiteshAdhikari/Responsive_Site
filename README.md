@@ -7,7 +7,7 @@ In this i used the following things:-
 - Used var() property.
 - Used Flex-box.
 
-Feel free to check it out.
+Feel free to check it out.<br>
 [Live Link](https://hiteshadhikari.github.io/Responsive_Site/)
 
 
